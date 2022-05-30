@@ -1,0 +1,20 @@
+{
+  "name": "app_perguntas_",
+  "version": "1.0.0",
+  "description": "App de perguntas e respostas",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "paper": "^0.12.15",
+    "sequelize": "^5.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Isvaldo",
+  "license": "ISC"
+}
